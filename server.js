@@ -16,19 +16,12 @@ var myfile={
                     one of the best thing is that they all are good motivaters and do there startup's 
                     by self motivating.
                 </p>
-   <dl>
-                    <dt>Arpit Agrawal</dt>
-                    <dd>-director of JECRC</dd>
-                    <dt>
-                        DR.V.k. chandana
-                    </dt>
-                    <dd>-principal of JECRC</dd>
-                </dl>
-                <div>
+ 
+            
                 <p>
                     And many other Guests are  attended.
-                </p>
-                </div>`
+                </p>`
+               
 };
 function createtemplate(data){
     var title=data.title;
